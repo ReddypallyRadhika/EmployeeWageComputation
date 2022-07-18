@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.AssemblyInfo.cs
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\bin\Debug\net6.0\CalDailyEmpWg.exe
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\bin\Debug\net6.0\CalDailyEmpWg.deps.json
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\bin\Debug\net6.0\CalDailyEmpWg.runtimeconfig.json
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\bin\Debug\net6.0\CalDailyEmpWg.dll
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\bin\Debug\net6.0\CalDailyEmpWg.pdb
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.dll
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\refint\CalDailyEmpWg.dll
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.pdb
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\CalDailyEmpWg.genruntimeconfig.cache
+C:\Users\hp\source\repos\CalDailyEmpWg\CalDailyEmpWg\obj\Debug\net6.0\ref\CalDailyEmpWg.dll
